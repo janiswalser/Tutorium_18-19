@@ -1,14 +1,17 @@
 ![](Material/cover.jpg)
 Javascript Tutorium WS 2018/2019 – HfG Schwäbisch Gmünd
 
+## Basics of Javascript
 
-**Design für Machine Learning, Machine Learning für Design — einwöchiger Workshop an der [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de), November 2018.**
+**Javascript Tutorium 2018/2019 at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de), November 2018.**
 
-> Durch Machine Learning (ML) lernen Computer, ohne explizit programmierte Regeln Muster in Daten zu erkennen. Die Technologie steuert autonome Fahrzeuge und Netflix-Empfehlungen, erkennt Kätzchen und Gesichter, wie wir dastehen und auf was wir stehen, Alexa spricht, Siri hört zu. 
-> 
-> Für Gestalter öffnen sich aufregende Möglichkeiten — individuelle User Experiences, neuartige Interfaces, der Computer als kreativer Assistent, smarte Designtools.
-> 
-> Was ist ML und was nicht? Wie können wir Machine Learning in unseren Projekten einsetzen, wie im Designprozess selbst? Wie gestalten wir verantwortungsvoll mit einer Technologie an der Spitze des Hype Cycle? Ziel des Workshops ist es, verschiedene ML Anwendungsbereiche kennenzulernen und in eigenen Projekten prototypisch anzuwenden (ohne dabei Hype und Mythos zu verfallen).
+>JavaScript is one of the most popular programming languages in the world. Created more then 20 years ago, it was the first, and the only scripting language that was supported natively by web browsers. In the beginnings, it was not nearly as powerful as it is today, and it was mainly used for fancy animations.
+<
+>With the growing needs that the web platform demands, JavaScript had the responsibility to grow as well, to accommodate the needs of one of the most widely used ecosystems of the world.
+<
+>JavaScript is now also the language powering databases and many more applications. It’s even possible to develop embedded applications, mobile apps, TV sets apps and much more. What started as a tiny language inside the browser is now the most popular language in the world.
+>
+In case you’re wondering, **JavaScript has nothing to do with Java**, it’s an unfortunate name choice but we have to live with it.
   
 
 
