@@ -29,7 +29,11 @@ List of Resources, which I think could be helpful.
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
 
-3. **Inspiration**
+3. **javascript Libraries**
+	* [jQuery](https://jquery.com/)
+	* ...
+
+4. **Inspiration**
 	They are not only based on Javascript, some inspirations are scripted with different languages - let yourself be inspired.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* ...
