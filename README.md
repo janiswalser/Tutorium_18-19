@@ -23,10 +23,13 @@ List of Resources, which I think could be helpful.
 	* [W3School](https://www.w3schools.com/)
 	* [Codecademy](https://www.codecademy.com/)
 	* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+	* [Codepen](https://codepen.io/)
 	
 2. **Useful Links**
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
-	* Bias & Ethik
-	* Hype und Mythos
 
+3. **Inspiration**
+	They are not only based on Javascript, some inspirations are scripted with different languages - let yourself be inspired.
+	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
+	* ...
