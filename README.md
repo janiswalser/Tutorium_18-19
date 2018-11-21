@@ -1,3 +1,4 @@
+
 ![](Material/cover.jpg)
 Javascript Tutorium WS 2018/2019 – HfG Schwäbisch Gmünd
 
@@ -39,3 +40,7 @@ List of Resources, which I think could be helpful.
 	They are not only based on Javascript, some inspirations are scripted with different languages - let yourself be inspired.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* ...
+
+
+
+**update 20181121 – Janis Walser
