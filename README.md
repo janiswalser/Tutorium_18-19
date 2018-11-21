@@ -14,6 +14,8 @@ Javascript Tutorium WS 2018/2019 – HfG Schwäbisch Gmünd
 In case you’re wondering, **JavaScript has nothing to do with Java**, it’s an unfortunate name choice but we have to live with it.
   
 
+## Links / Quellen
+List of Resources, which I think could be helpful. 
 
 
 1. **where to learn**  
