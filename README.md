@@ -14,6 +14,8 @@ Javascript Tutorium WS 2018/2019 – HfG Schwäbisch Gmünd
 
 ![](Material/structure.jpg)
 
+**[→ Download Slides](Javascript_Tutorium_20181121.pdf)**
+
 
 ## Links / Quellen
 List of Resources, which I think could be helpful. 
