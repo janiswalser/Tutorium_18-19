@@ -15,19 +15,15 @@ In case you’re wondering, **JavaScript has nothing to do with Java**, it’s a
   
 
 
-## Einführung: Machine Learning für Designer
 
-**[→ Download Slides](Laborwoche-ML.pdf)**
-
-1. **Grundlagen**  
-	* Was ist ML? Beispiele, Definition und ein Ausflug in die Mathematik
-	* Arten von ML: Supervised, Unsupervised, Reinforcement Learning
-	* Von Neural Networks zu Deep Learning: Geschichte und Grundlagen
-	* Rezept für ein ML-Projekt: Begriffe, Zutaten, Ablauf  
-2. **Gestaltung mit ML**
-	* Notwendigkeit und Machbarkeit
-	* Kontrolle und Transparenz
-	* Umgang mit Unsicherheit
+1. **where to learn**  
+	* [W3School](https://www.w3schools.com/)
+	* [Codecademy](https://www.codecademy.com/)
+	* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+	
+2. **Useful Links**
+	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
+	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
 	* Bias & Ethik
 	* Hype und Mythos
 3. **Projekt-Showcase**
