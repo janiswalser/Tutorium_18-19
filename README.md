@@ -34,6 +34,10 @@ List of Resources, which I think could be helpful.
 
 3. **javascript Libraries**
 	* [jQuery](https://jquery.com/)
+	* [Fuse.js](http://fusejs.io/) – Fuzzy Search Framework
+	* [CSS Grid](http://learncssgrid.com)
+	* [Annyang.js](https://www.talater.com/annyang/) – Voice Recognition Framework
+	* [Scrollama](https://github.com/russellgoldenberg/scrollama) – Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
 	* ...
 
 4. **Inspiration**
