@@ -47,6 +47,9 @@ List of Resources, which I think could be helpful.
 
 5. **Topics & Tutorials**
 
+* [HTML, CSS, DOM - p5.js #Basics #StartwithP5.js](https://www.youtube.com/watch?v=URSH0QpxKo8&index=1&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [Work with data – #API #JSON #CSV & more](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+* [live video from a camera & pixel p5.js sketch](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
 
-**update 20181121 – Janis Walser
+
+**update 20181209 – Janis Walser
