@@ -45,6 +45,8 @@ List of Resources, which I think could be helpful.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* ...
 
+5. **Topics & Tutorials**
 
+* [Work with data – #API #JSON #CSV & more](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
 **update 20181121 – Janis Walser
