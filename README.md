@@ -22,11 +22,12 @@ Javascript Tutorium WS 2018/2019 – HfG Schwäbisch Gmünd
 List of Resources, which I think could be helpful. 
 
 
-1. **where to learn**  
+1. **Tutorials**  
 	* [W3School](https://www.w3schools.com/)
 	* [Codecademy](https://www.codecademy.com/)
 	* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 	* [Codepen](https://codepen.io/)
+	* [Css Tutorium](http://tutorial.olivier-brueckner.de/) 
 	
 2. **Useful Links**
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
@@ -41,7 +42,7 @@ List of Resources, which I think could be helpful.
 	* ...
 
 4. **Inspiration**
-	They are not only based on Javascript, some inspirations are scripted with different languages - let yourself be inspired.
+	They aren't only based on Javascript, some inspirations are scripted in css.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* ...
 
