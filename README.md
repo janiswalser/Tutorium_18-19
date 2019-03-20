@@ -34,6 +34,7 @@ List of Resources, which I think could be helpful.
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
 	* [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/?sort=rating)
 	* [Css Easing](https://matthewlein.com/tools/ceaser)
+	* [Basscss](http://basscss.com/) Low-Level CSS Toolkit 2.13 KB
 
 3. **javascript Libraries**
 	* [jQuery](https://jquery.com/)
