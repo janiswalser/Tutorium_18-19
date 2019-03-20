@@ -33,7 +33,7 @@ List of Resources, which I think could be helpful.
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
 	* [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/?sort=rating)
-	* [Css Easing](https://matthewlein.com/tools/ceaser)
+	* [Css Easing](https://matthewlein.com/tools/ceaser) & [cubic-bezier](http://cubic-bezier.com/#.17,.67,.86,.27)
 	* [Basscss](http://basscss.com/) Low-Level CSS Toolkit 2.13 KB
 
 3. **javascript Libraries**
