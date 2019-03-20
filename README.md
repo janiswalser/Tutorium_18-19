@@ -33,6 +33,7 @@ List of Resources, which I think could be helpful.
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
 	* [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/?sort=rating)
+	* [Css Easing](https://matthewlein.com/tools/ceaser)
 
 3. **javascript Libraries**
 	* [jQuery](https://jquery.com/)
@@ -46,6 +47,7 @@ List of Resources, which I think could be helpful.
 	They aren't only based on Javascript, some inspirations are scripted in css.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* [searchUI](https://tympanus.net/Development/SearchUIEffects/index9.html)
+	* [CssHover](http://ianlunn.github.io/Hover/)
 
 5. **Topics & Tutorials**
 
