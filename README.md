@@ -47,7 +47,8 @@ List of Resources, which I think could be helpful.
 	They aren't only based on Javascript, some inspirations are scripted in css.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
 	* [searchUI](https://tympanus.net/Development/SearchUIEffects/index9.html)
-	* [CssHover](http://ianlunn.github.io/Hover/)
+	* [Css Hover](http://ianlunn.github.io/Hover/)
+	* [Css Animation](https://daneden.github.io/animate.css/)
 
 5. **Topics & Tutorials**
 
