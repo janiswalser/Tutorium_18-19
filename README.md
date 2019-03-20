@@ -32,6 +32,7 @@ List of Resources, which I think could be helpful.
 2. **Useful Links**
 	* [Flat Color Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok) – Chrome Plugin
 	* [CSS Peeper](https://csspeeper.com/) – Best Chrome Plugin 
+	* [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/?sort=rating)
 
 3. **javascript Libraries**
 	* [jQuery](https://jquery.com/)
