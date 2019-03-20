@@ -44,7 +44,7 @@ List of Resources, which I think could be helpful.
 4. **Inspiration**
 	They aren't only based on Javascript, some inspirations are scripted in css.
 	* [swiss in CSS](https://swissincss.com/juni-festwochen-1959)
-	* ...
+	* [searchUI](https://tympanus.net/Development/SearchUIEffects/index9.html)
 
 5. **Topics & Tutorials**
 
