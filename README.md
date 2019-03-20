@@ -39,7 +39,7 @@ List of Resources, which I think could be helpful.
 	* [CSS Grid](http://learncssgrid.com)
 	* [Annyang.js](https://www.talater.com/annyang/) – Voice Recognition Framework
 	* [Scrollama](https://github.com/russellgoldenberg/scrollama) – Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
-	* ...
+	* [Paper.js](http://paperjs.org/)
 
 4. **Inspiration**
 	They aren't only based on Javascript, some inspirations are scripted in css.
