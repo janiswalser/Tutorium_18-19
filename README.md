@@ -50,6 +50,7 @@ List of Resources, which I think could be helpful.
 	* [searchUI](https://tympanus.net/Development/SearchUIEffects/index9.html)
 	* [Css Hover](http://ianlunn.github.io/Hover/)
 	* [Css Animation](https://daneden.github.io/animate.css/)
+	* [UI interaction snippets](https://codemyui.com/page/4/)
 
 5. **Topics & Tutorials**
 
