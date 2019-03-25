@@ -35,6 +35,7 @@ List of Resources, which I think could be helpful.
 	* [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/?sort=rating)
 	* [Css Easing](https://matthewlein.com/tools/ceaser) & [cubic-bezier](http://cubic-bezier.com/#.17,.67,.86,.27)
 	* [Basscss](http://basscss.com/) Low-Level CSS Toolkit 2.13 KB
+	* [array-explorer](https://sdras.github.io/array-explorer/)
 
 3. **javascript Libraries**
 	* [jQuery](https://jquery.com/)
