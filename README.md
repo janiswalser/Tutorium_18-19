@@ -26,6 +26,8 @@ List of Resources, which I think could be helpful.
 	* [W3School](https://www.w3schools.com/)
 	* [Codecademy](https://www.codecademy.com/)
 	* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+	* [collection about the most quirky parts of the JavaScript](http://bonsaiden.github.io/JavaScript-Garden/#other.timeouts)
+	* [30day JS Challenge](https://github.com/nitishdayal/JavaScript30)
 	* [Codepen](https://codepen.io/)
 	* [Css Tutorium](http://tutorial.olivier-brueckner.de/) 
 	
